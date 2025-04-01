@@ -1,2 +1,2 @@
 # E-Waste
-owner - deepak
+owner - deepak verma
